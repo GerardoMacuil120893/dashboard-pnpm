@@ -1,4 +1,4 @@
-import { Login } from './views/Login';
+import { Login } from './views/login/Login';
 
 function App() {
   return (
